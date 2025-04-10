@@ -13,6 +13,7 @@ import Banner from './pages/Banner';
 import Gallery from './pages/Gallery';
 import Volunteer from "./pages/Volunteer";
 import Donate from "./pages/Donate";
+import FAQ from './pages/FAQ';
 function Layout() {
   const location = useLocation();
   const isHome = location.pathname === '/';
