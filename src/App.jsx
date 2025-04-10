@@ -8,7 +8,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 
 import Contact from './components/Contact';
-import FAQ from './pages/Faq';
+
 import Banner from './pages/Banner';
 import Gallery from './pages/Gallery';
 import Volunteer from "./pages/Volunteer";
